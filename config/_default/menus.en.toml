@@ -26,13 +26,13 @@
 #   weight = 30
 
 [[main]]
-  name = "Performer Resume"
+  name = " Resume"
   url = "/morgan-blake-resume-performer.pdf"
   weight = 10
 
 [[main]]
-  name = "Technology Resume"
-  url = "/morgan-blake-resume-professional.pdf"
+  name = "Singing Reel"
+  url = "https://youtu.be/4cE6Jy2ty4k"
   weight = 10
 
 [[main]]
