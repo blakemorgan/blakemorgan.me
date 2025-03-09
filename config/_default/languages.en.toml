@@ -14,8 +14,8 @@ title = "Blake Morgan"
 [params.author]
   name = "Blake Morgan"
   image = "img/author.jpg"
-  headline = "New York City-based performer and technologist."
-  bio = "New York City-based performer and technologist."
+  headline = "New York City-based singer, actor, pianist, and music director."
+  bio = "New York City-based singer, actor, pianist, and music director."
   links = [
     { email = "mailto:blake@blakemorgan.me" },
     { instagram = "https://instagram.com/blakemorgan.me" },
